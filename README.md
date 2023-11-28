@@ -1,2 +1,3 @@
-# CursoNetCore
-Entregas curso de .netCore
+# Curso Net Core
+
+Proyecto prueba para el curso de netCore
